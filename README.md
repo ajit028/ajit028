@@ -3,7 +3,12 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=AJIT%20NAYAK&fontSize=60&fontColor=00d4ff&fontAlignY=35&desc=SOC%20Analyst%20%26%20Cybersecurity%20Specialist&descSize=20&descColor=58a6ff&descAlignY=55&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Defending+networks+%7C+Hunting+threats+%7C+Securing+infrastructure;SIEM+%E2%80%A2+Threat+Intel+%E2%80%A2+Incident+Response+%E2%80%A2+Forensics)](https://ajit028.github.io)
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC_ANALYST-TIER_1%2F2-00D4FF?style=for-the-badge&logo=shield&logoColor=white" alt="SOC Analyst" />
+  <img src="https://img.shields.io/badge/SIEM_%26_KQL-THREAT_HUNTER-1679A7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="SIEM Hunter" />
+  <img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-SECURITY_DEFENDER-003B6F?style=for-the-badge&logo=windows&logoColor=white" alt="AD Defender" />
+  <img src="https://img.shields.io/badge/INCIDENT_RESPONSE-MITRE_ATT%26CK-E4002B?style=for-the-badge&logo=mitre&logoColor=white" alt="IR & MITRE" />
+</p>
 
 ---
 

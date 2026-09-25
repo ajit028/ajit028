@@ -1,18 +1,22 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=AJIT%20NAYAK&fontSize=60&fontColor=00d4ff&fontAlignY=35&desc=SOC%20Analyst%20%26%20Cybersecurity%20Specialist&descSize=20&descColor=58a6ff&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC_ANALYST-TIER_1%2F2-00D4FF?style=for-the-badge&logo=shield&logoColor=white" alt="SOC Analyst" />
-  <img src="https://img.shields.io/badge/SIEM_%26_KQL-THREAT_HUNTER-1679A7?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="SIEM Hunter" />
-  <img src="https://img.shields.io/badge/ACTIVE_DIRECTORY-SECURITY_DEFENDER-003B6F?style=for-the-badge&logo=windows&logoColor=white" alt="AD Defender" />
-  <img src="https://img.shields.io/badge/INCIDENT_RESPONSE-MITRE_ATT%26CK-E4002B?style=for-the-badge&logo=mitre&logoColor=white" alt="IR & MITRE" />
-</p>
+### ⚡ LIVE SOC TELEMETRY & OPERATIONS STREAM ⚡
 
----
+```ini
+[SYSTEM STATUS]  : NOMINAL // DEFCON 4 // THREAT DETECTION READY
+[PRIMARY SIEM]   : MICROSOFT SENTINEL & SPLUNK (KQL / SPL)
+[LOCATION FEED]  : BANGALORE, INDIA // AVAILABLE FOR IMMEDIATE HIRE
+[CORE EXPERTISE] : THREAT HUNTING • AD DEFENSE • PACKET FORENSICS
+```
 
-`🟢 Available for SOC Analyst roles` &nbsp;|&nbsp; `📍 Bangalore / Remote`
+[![Portfolio](https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-AJIT028.GITHUB.IO-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ajit028.github.io)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_CONNECT_LINKEDIN-AJIT028-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajit028)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/📧_DIRECT_CONTACT-AJIT.NAYAK.028@GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajit.nayak.028@gmail.com)
 
 ---
 
@@ -100,44 +104,5 @@ Focus Areas:   SIEM Threat Detection | Active Directory Hardening | Deep Packet 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajit028&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" width="520"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ajit028&theme=algolia&no-bg=true&no-frame=true&margin-w=10&column=7)](https://github.com/ajit028)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ajit028.github.io-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ajit028.github.io)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajit028-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ajit028)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-ajit.nayak.028@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ajit.nayak.028@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🔐 *"The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards."* 
-— **Gene Spafford**
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ajit028&color=00d4ff&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=120&section=footer" width="100%"/>
 
 </div>
